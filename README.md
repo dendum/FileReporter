@@ -1,4 +1,4 @@
-# Homework_1
+# Homework_1 - FileReporter
 
 The application receives the full path of a directory as an input parameter. It gathers a list of files and folders in that directory, along with 3 properties of each file/folder (type, size, last modification time).
 
